@@ -1,4 +1,4 @@
-#proyecto php
+##proyecto php
 
 ## Descripcion: como hacer una pagina en la web
 ## Prerrequisitos: instala visual studio code, instalar php en la terminal
